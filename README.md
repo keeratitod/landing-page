@@ -1,1 +1,1 @@
-# landing-page
+build landing page / HTML, CSS / odin style
